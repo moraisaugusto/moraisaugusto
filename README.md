@@ -26,6 +26,9 @@
     <a href="#" target="_blank"><img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white"></a>
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=moraisaugusto&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+
 <details>
 <summary>Click for GitHub Stats</summary>
 <p align="center">
